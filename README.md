@@ -1,2 +1,1 @@
-# SmartCity
-This android app provides licensing for hawkers to open their business in which they can select the gov-authorized place best suitable for them. After, the licensing will be done by us, can collect it from gov-centre. The aim is to clean the city footpaths from illegal business and also saving people, the trouble of government authorities taking their belongings i.e.…, the BMC taking people’s cart and products.
+Android application developed to prevent street hawkers from opening their business on footpath to keep the footpath clean and free for public use. The app also had. the feature of assigning slots to those hawkers on locations verified by the government. This app was made in NMIMS hackathon.
